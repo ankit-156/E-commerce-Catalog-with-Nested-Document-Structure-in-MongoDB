@@ -223,5 +223,17 @@ http://localhost:3000
 ## 🧰 Troubleshooting
 - **MongoDB connection error** → ensure `mongod` service is running.  
 - **CastError (ObjectId)** → check you passed a valid MongoDB `_id`.  
-- **Validation error** → ensure `name`, `price`, `category`, and variant details are provided correctly.  
+- **Validation error** → ensure `name`, `price`, `category`, and variant details are provided correctly.
+
+- ## 📷 Output Screenshots
+
+![Screenshot](/OUTPUT/Screenshot%202025-10-05%20233147.png)
+![Screenshot](/OUTPUT/Screenshot%202025-10-05%20233155.png)
+![Screenshot](/OUTPUT/Screenshot%202025-10-05%20233331.png)
+![Screenshot](/OUTPUT/Screenshot%202025-10-05%20233622.png)
+![Screenshot](/OUTPUT/Screenshot%202025-10-05%20233645.png)
+![Screenshot](/OUTPUT/Screenshot%202025-10-05%20233653.png)
+
+---
+
 
